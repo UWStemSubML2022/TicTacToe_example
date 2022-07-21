@@ -1,7 +1,8 @@
 def main():
     print("hi erika!")
 
-
+def strawberry():
+    print("strawberry")
 
 
 
