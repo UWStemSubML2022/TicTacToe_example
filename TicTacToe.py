@@ -2,6 +2,7 @@ import numpy as np
 import random
 
 
+
 def print_board(board_array):
     if len(board_array.flatten()) != 9:
         print("Incorrect board array length!")
